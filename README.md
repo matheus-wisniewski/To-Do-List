@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-Este projeto foi desenvolvido na seção 01 - Docker: Utilizando Containers do [curso de Desenvolvimento Web da Trybe](https://www.betrybe.com/formacao-desenvolvimento-web). <br>
+Este projeto foi desenvolvido na seção 01 - Docker: Utilizando Containers do [curso de Desenvolvimento Web da Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) no módulo de back-end. <br>
 A resolução dos requisitos podem ser encontradas no arquivo [Requisitos](./docker/docker-commands/Requisitos.md) na pasta [docker](./docker/docker-commands) junto com a descrição dos mesmos.
 
 # Objetivos do projeto e ferramentas utilizadas
